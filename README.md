@@ -56,6 +56,8 @@ Group customers into segments based on their annual income and spending score us
 - Gained insights into unsupervised learning with K-Means.
 - Visualized data distributions and model outcomes.
 - Learned to evaluate models with relevant metrics.
+
 📧 Contact
 gmail id:gudipatimeenakshi2654@gmail.com
+
 linkedin:www.linkedin.com/in/meenakshi-gudipati
